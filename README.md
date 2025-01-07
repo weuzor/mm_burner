@@ -1,6 +1,6 @@
 # Umbilical Galileo 2 Stealthburner optimized for multimaterial printing
 
-* #CPAP# part cooling with symmetric airflow inspired by https://makerworld.com/de/models/235686
+* *CPAP* part cooling with symmetric airflow inspired by https://makerworld.com/de/models/235686
 * Knomi2 snap in mount
 * two ball less Filament Sensors utilizing DF2-L3-D3 switches based on https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod  
 * integrated bowden actuated filament cutter with easy blade replacement based on https://github.com/sorted01/Filametrix
