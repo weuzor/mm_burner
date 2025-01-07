@@ -1,4 +1,4 @@
-# Umbilical Galileo 2 Stealthburner with all latest bells and whistles optimized for multimaterial printing
+# Umbilical Galileo 2 Revo Stealthburner with all latest bells and whistles optimized for multimaterial printing
 
 * __CPAP__ part cooling with symmetric airflow inspired by https://makerworld.com/de/models/235686
 * __Knomi 2__ snap in mount
