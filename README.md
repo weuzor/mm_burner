@@ -1,6 +1,5 @@
 # My Multimaterial Stealthburner
  
- eliable printhead for multi material printing 
 
 Galileo 2 Stealthburner with two Filament Sensors, integrated Bowden Filament Cutter, CPAP, KNOMI2, E3D PZ Probe, 3DO Nozzle Cam V2
 
