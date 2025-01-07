@@ -1,7 +1,7 @@
 # Galileo 2 Stealthburner optimized for multimaterial printing
 
 * CPAP part cooling
-* Knomi2 and internal Camera PCB mount
+* Knomi2 snap in mount
 * two Filament Sensors
 * integrated Bowden operated Filament Cutter
 * E3D PZ Probe PCB mount
