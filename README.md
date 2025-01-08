@@ -16,3 +16,4 @@
 <img width="795" alt="hot2" src="https://github.com/user-attachments/assets/7739a675-e5ab-4e7c-8bae-aedb18867ffa" />
 <img width="924" alt="ex1" src="https://github.com/user-attachments/assets/8f47a63f-7bb1-405e-aa10-6ee32274b895" />
 <img width="924" alt="ex2" src="https://github.com/user-attachments/assets/82cd783a-dc14-4d2f-bd18-8fd00532d8e8" />
+<img width="1048" alt="bowden cutter" src="https://github.com/user-attachments/assets/b2f13d21-ea47-4c81-8111-911e3334d1a8" />
