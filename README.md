@@ -1,4 +1,4 @@
-# Umbilical Galileo 2 Revo Stealthburner with all latest bells and whistles optimized for multimaterial printing
+# Umbilical Galileo 2 Revo Stealthburner with various mods optimized for multimaterial printing
 
 * __CPAP__ part cooling with symmetric airflow inspired by https://makerworld.com/de/models/235686
 * __Knomi 2__ snap in mount
@@ -9,3 +9,4 @@
 * CAN Cable outlet near all other outlets (i.e. CPAP Hose , Camera USB Cable, Filament PTFE Tube, Cutter Bowden PTFE Tube, CAN+Power Cable) 
 
 <img width="595" alt="mm_burner" src="https://github.com/user-attachments/assets/7bffd300-a7d4-48af-9159-efbd7c42f45b" />
+<img width="595" alt="mm_burner2" src="https://github.com/user-attachments/assets/b93d73a2-7017-4ee4-84e7-158144e2f466" />
