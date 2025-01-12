@@ -9,19 +9,19 @@
 * CAN Cable outlet near all other outlets (i.e. CPAP Hose , Camera USB Cable, Filament PTFE Tube, Cutter Bowden PTFE Tube, CAN+Power Cable) 
 
 ## Materials needed for the bowden cutter incl. actuator:
-PTFE tube 2mm/4mm
-PTFE Tube 1mm/2mm
-Nylon coated stranded steel wire 0.6 mm diameter
-1 V623 ball bearing (ID 3 mm / OD 10 mm / Width 3 mm with V-groove) 
-1 M2.5 x 8 screw
-1 M2.5 washer
-1 M2.5 x 5 x 3.5 heat set insert
-1 Brass tube OD 3 mm / ID 2.5 mm, L 3 mm (or e.g. heat shrink tube over the last 3 mm of the M2.5 screw)
-1 ECAS Collet
-1 Miuzei 25kg Servo (or MG996R or similar) + supplied screws + round servo horn
-2 M3 x 4 x 4.5 heat set inserts
-2 M3 x 5 screws
-1 blade # 4 (cut or broken off at the end of the slot)
+* PTFE tube 2mm/4mm
+* PTFE Tube 1mm/2mm
+* Nylon coated stranded steel wire 0.6 mm diameter
+* 1 V623 ball bearing (ID 3 mm / OD 10 mm / Width 3 mm with V-groove) 
+* 1 M2.5 x 8 screw
+* 1 M2.5 washer
+* 1 M2.5 x 5 x 3.5 heat set insert
+* 1 Brass tube OD 3 mm / ID 2.5 mm, L 3 mm (or e.g. heat shrink tube over the last 3 mm of the M2.5 screw)
+* 1 ECAS Collet
+* 1 Miuzei 25kg Servo (or MG996R or similar) + supplied screws + round servo horn
+* 2 M3 x 4 x 4.5 heat set inserts
+* 2 M3 x 5 screws
+* 1 blade # 4 (cut or broken off at the end of the slot)
 
 ---
 
