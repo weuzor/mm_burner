@@ -12,7 +12,7 @@
 * PTFE tube 2mm/4mm
 * PTFE Tube 1mm/2mm
 * Nylon coated stranded steel wire 0.6 mm diameter
-* 1 V623 or 623UU ball bearing (ID 3 mm / OD 10 mm / Width 3 mm) with V-groove or U-groove [here]https://www.amazon.com/Atoplee-3x10x3mm-603VV-Groove-Bearings/dp/B0191I4UU2/ref=sr_1_7?crid=2ESRQYF3V9C1N&dib=eyJ2IjoiMSJ9.eFnag1n-2s4nOGs8pmZJEKJCjXdPcYd3p07rp37MA3-PntTX6teqtT5QpFiAcVkFdbqGQdhNKabmwON-s04V56NQRKq8T_GPhFC7wfU8nxhwW-kYKfMQTWNMRF3BVG-m30QKYs4Cu1sZzZA_NDDpIafII6ODtltIKSgmPrmYCnCGGGCghnwHSEHHA_nSFp6U_mx1yofH8Ygd_EiKF8eeUHIobtI9buBsPuKNOWgoFDs.rGSL3FBz0Vt9S-ZiudwLVzsulJQmN1tLPd17eQok_i0&dib_tag=se&keywords=ball+bearing%233x10x3&qid=1736647854&sprefix=ball+bearing+3x10x3%2Caps%2C179&sr=8-7
+* 1 V623 or 623UU ball bearing (ID 3 mm / OD 10 mm / Width 3 mm) with V-groove or U-groove ([here]https://www.amazon.com/Atoplee-3x10x3mm-603VV-Groove-Bearings/dp/B0191I4UU2/ref=sr_1_7?crid=2ESRQYF3V9C1N&dib=eyJ2IjoiMSJ9.eFnag1n-2s4nOGs8pmZJEKJCjXdPcYd3p07rp37MA3-PntTX6teqtT5QpFiAcVkFdbqGQdhNKabmwON-s04V56NQRKq8T_GPhFC7wfU8nxhwW-kYKfMQTWNMRF3BVG-m30QKYs4Cu1sZzZA_NDDpIafII6ODtltIKSgmPrmYCnCGGGCghnwHSEHHA_nSFp6U_mx1yofH8Ygd_EiKF8eeUHIobtI9buBsPuKNOWgoFDs.rGSL3FBz0Vt9S-ZiudwLVzsulJQmN1tLPd17eQok_i0&dib_tag=se&keywords=ball+bearing%233x10x3&qid=1736647854&sprefix=ball+bearing+3x10x3%2Caps%2C179&sr=8-7)
 * 1 M2.5 x 8 screw
 * 1 M2.5 washer
 * 1 M2.5 x 5 x 3.5 heat set insert
