@@ -16,6 +16,7 @@
 * 1 M2.5 x 8 screw
 * 1 M2.5 washer
 * 1 M2.5 x 5 x 3.5 heat set insert
+* 1 compression spring 5.5 x 17 mm (https://www.amazon.com/dp/B0DF21GRN1/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=2AKV6FXLFZY04&dib=eyJ2IjoiMSJ9.B9q0atkenJRq4xFEpuA6kf0xvpWVwtjE_6Jrg8n_wl6NHta9ITOqniu6mMLtZMFY2_GtR4F_p8Hx75KQDkPY7fpfaDna87tC5B3B3hsjJfN4gQ8lqOv1fjgLgXU953trXPpknKVWs0QRSiNBvWAiD5JjdxLaEr9TSl6Sqnwv4ecXGIxPsb15RojaRq2vxIcHnsdGiSbCrEg-Z74QEsWqzqf3JAr6EFOmu-LbFnp-Fyk.SwDMcXsodjg3r6qEAGHaBXy8vgAhajbzSszQWizHb5c&dib_tag=se&keywords=compression+spring&qid=1736647255&sprefix=compression+spring%2Caps%2C199&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 * 1 Brass tube OD 3 mm / ID 2.5 mm, L 3 mm (or e.g. heat shrink tube over the last 3 mm of the M2.5 screw)
 * 1 ECAS Collet
 * 1 Miuzei 25kg Servo (or MG996R or similar) + supplied screws + round servo horn
