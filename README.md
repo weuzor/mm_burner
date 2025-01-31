@@ -3,7 +3,7 @@
 * __CPAP__ part cooling with symmetric airflow inspired by https://makerworld.com/de/models/235686
 * __Knomi 2__ snap in mount
 * two ball less __filament sensors__ utilizing DF2-L3-D3 switches based on https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod  
-* integrated [bowden actuated filament cutter_](https://github.com/weuzor/bowden_cutter) with easy blade replacement
+* integrated __[bowden actuated filament cutter](https://github.com/weuzor/bowden_cutter)__ with easy blade replacement
 * E3D __PZ Probe PCB mount__ with extension lever to be able to press the pcb button
 * __3DO Nozzle Cam V2__ + internal PCB mount
 * CAN Cable outlet near all other outlets (i.e. CPAP Hose , Camera USB Cable, Filament PTFE Tube, Cutter Bowden PTFE Tube, CAN+Power Cable) 
